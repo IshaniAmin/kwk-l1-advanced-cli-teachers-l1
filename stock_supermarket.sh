@@ -1,34 +1,34 @@
 ls;
-mv delivery/apples.txt fruit;
-mv delivery/bison_burgers.txt
-mv delivery/brie.txt
-mv delivery/broccoli.txt
-mv delivery/carrot_cake.txt
-mv delivery/carrots.txt
-mv delivery/eggo_waffles.txt
-mv delivery/fage_yogurt.txt
-mv delivery/fig_bars.txt
-mv delivery/flourless_cake.txt
-mv delivery/garlic.txt
-mv delivery/goldfish.txt
-mv delivery/grapples.txt
-mv delivery/hotdogs.txt
-mv delivery/icecream.txt
-mv delivery/lamb_ribs.txt
-mv delivery/land_o_lakes_butter.txt
-mv delivery/lean_cuisine.txt
-mv delivery/leeks.txt
-mv delivery/milk.txt
-mv delivery/mint_milano_cookies.txt
-mv delivery/onion.txt
-mv delivery/oreos.txt
-mv delivery/potatoes.txt
-mv delivery/salmon_steak.txt
-mv delivery/tiramisu_cake.txt
-mv delivery/tomatoes.txt
-mv delivery/trail_mix.txt
-mv delivery/turkey_breast.txt
-mv delivery/velveeta_cheese.txt
-mv delivery/watermelon.txt
-mv delivery/whole_chicken.txt
-mv delivery/wonder_bread.txt
+mv delivery/apples.txt fruit
+mv delivery/bison_burgers.txt meat
+mv delivery/brie.txt dairy
+mv delivery/broccoli.txt veggies
+mv delivery/carrot_cake.txt dessert
+mv delivery/carrots.txt veggies
+mv delivery/eggo_waffles.txt freezer
+mv delivery/fage_yogurt.txt dairy
+mv delivery/fig_bars.txt snax
+mv delivery/flourless_cake.txt dessert
+mv delivery/garlic.txt veggies
+mv delivery/goldfish.txt snax
+mv delivery/grapples.txt fruit
+mv delivery/hotdogs.txt meat
+mv delivery/icecream.txt dairy
+mv delivery/lamb_ribs.txt meat
+mv delivery/land_o_lakes_butter.txt dairy
+mv delivery/lean_cuisine.txt freezer
+mv delivery/leeks.txt veggies
+mv delivery/milk.txt dairy
+mv delivery/mint_milano_cookies.txt dessert
+mv delivery/onion.txt veggies
+mv delivery/oreos.txt dessert
+mv delivery/potatoes.txt veggies
+mv delivery/salmon_steak.txt meat
+mv delivery/tiramisu_cake.txt dessert
+mv delivery/tomatoes.txt fruit
+mv delivery/trail_mix.txt snax
+mv delivery/turkey_breast.txt meat
+mv delivery/velveeta_cheese.txt dairy
+mv delivery/watermelon.txt fruit
+mv delivery/whole_chicken.txt meat
+mv delivery/wonder_bread.txt snax
