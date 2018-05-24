@@ -1,0 +1,32 @@
+ls;
+mv delivery/apples.txt fruit;
+mv delivery/bison_burgers.txt
+mv delivery/brie.txt
+mv delivery/broccoli.txt
+mv delivery/carrot_cake.txt
+mv delivery/carrots.txt
+mv delivery/eggo_waffles.txt
+mv delivery/fage_yogurt.txt
+mv delivery/fig_bars.txt
+mv delivery/flourless_cake.txt
+mv delivery/garlic.txt
+mv delivery/
+mv delivery/
+mv delivery/
+mv delivery/
+mv delivery/
+mv delivery/
+mv delivery/
+mv delivery/
+mv delivery/
+mv delivery/
+mv delivery/
+mv delivery/
+mv delivery/
+mv delivery/
+mv delivery/
+mv delivery/
+mv delivery/
+mv delivery/
+mv delivery/
+mv delivery/
